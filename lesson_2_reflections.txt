@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git directory is created so git can store all its data when things actually get committed.
