@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-.git directory is created so git can store all its data when things actually get committed.
+.git directory is created so git can store all its data when things actually get
+committed.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+working directory has all files, whether they are being tracked by git or not
+repository has all files that have been committed
+staging area has files being tracked that may or may not have been committed
